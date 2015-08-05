@@ -19,7 +19,7 @@ http://www.sciencedirect.com/science/article/pii/S2214753514000059>
 
 [3] S. Rödiger, M. Burdukiewicz, K. Blagodatskikh, et al. "R as an
 Environment for the Reproducible Analysis of DNA Amplification
-Experiments". In: _The R Journal_ 7.2 (2015), pp. 1-24.
+Experiments". In: _The R Journal_ 7.2 (2015), pp. 127-150.
 
 [4] S. Rödiger, M. Burdukiewicz and P. Schierack. "chipPCR: an R
 package to pre-process raw data of amplification curves". ENG. In:
