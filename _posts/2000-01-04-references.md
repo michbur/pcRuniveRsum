@@ -31,6 +31,6 @@ Smoothing on Parameter Estimation in Quantitative DNA
 Amplification Experiments". En. In: _Clinical Chemistry_ 61.2
 (Jan. 2015), pp. 379-388. ISSN: 0009-9147, 1530-8561. DOI:
 10.1373/clinchem.2014.230656. <URL:
-http://www.clinchem.org/content/61/2/379> (visited on 04/01/2015).
+http://www.clinchem.org/content/61/2/379>.
 
 
