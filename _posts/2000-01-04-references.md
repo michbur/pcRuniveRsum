@@ -26,4 +26,8 @@ package to pre-process raw data of amplification curves". ENG. In:
 _Bioinformatics (Oxford, England)_ (2015). ISSN: 1367-4811. DOI:
 10.1093/bioinformatics/btv205.
 
-
+[5] A.-N. Spiess, C. Deutschmann, M. Burdukiewicz, R. Himmelreich, 
+K. Klat, P. Schierack and S. Rödiger, . "Impact of Smoothing on 
+Parameter Estimation in Quantitative DNA Amplification Experiments". 
+ENG. In: _Clinical Chemistry_ (2015). ISSN: 1530-8561. 
+DOI: 10.1373/clinchem.2014.230656. pp. 379-388.
