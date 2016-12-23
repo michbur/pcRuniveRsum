@@ -7,19 +7,34 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
-highlighter: rouge
 
 
 ### content configuration ###
-title:       "pcRuniveRsum"
-keywords:    "R, pcr, qpcr"
-description: "A collection of R packages for qPCR analysis"
-source_link: "https://github.com/michbur/pcRuniveRsum"
+title:       "SinglePaged - Simple Jekyll template"
+keywords:    "SinglePaged, jekyll, template, github, blog, single page"
+description: "A single-page template for Jekyll based blogs (like what you'd use on github pages!)"
+source_link: "https://github.com/t413/SinglePaged"
+favicon:     "img/favicon.ico"
+touch_icon:  "img/apple-touch-icon.png"
 google_analytics_key: UA-54221551-1
+
+
+### template colors, used site-wide via css ###
+colors:
+  black:     '#111111'
+  white:     '#f8f8f8'
+  blue:      '#49a7e9'
+  green:     '#9bcf2f'
+  purple:    '#c869bf'
+  orange:    '#fab125'
+  turquoise: '#0fbfcf'
+
+kramdown:
+  auto_ids:  false
 
 
 ### template colors, used site-wide via css ###
