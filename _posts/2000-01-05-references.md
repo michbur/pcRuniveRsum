@@ -32,7 +32,6 @@ Detection and Quantification_ 28.9 (2016), pp. 14-19. ISSN:
 chain reaction data questions threshold-based quantitation". En.
 In: _Scientific Reports_ 6 (2016), p. 38951. ISSN: 2045-2322. DOI:
 10.1038/srep38951. <URL:
-http://www.nature.com/srep/2016/161213/srep38951/full/srep38951.html>
-(visited on 12/23/2016).
+http://www.nature.com/srep/2016/161213/srep38951/full/srep38951.html>.
 
 
